@@ -1,0 +1,8 @@
+/qrcodes
+/pdfs
+/uploads
+.project
+.buildpath
+/.settings
+/nbproject
+/nbproject/private/
